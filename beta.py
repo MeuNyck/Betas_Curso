@@ -38,7 +38,7 @@ cb = input("Você é cuiudo, ou é macio?\n")
 
 print("\n== RESULTADOS ==\n")
 
-print(f"Beta: {beta}")
+print(f"mogou: {beta}")
 print(f"Aura: {aura}")
 if farmada >= 10:
     print(f"Farmada: {farmada}")
